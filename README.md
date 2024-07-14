@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ayush Maha<br>IT enthusiast<br><br>
+Hi 👋, I'm Ayush Mahat<br>IT enthusiast<br><br>
 
 
 ## 🌐 Socials:
@@ -14,4 +14,4 @@ Hi 👋, I'm Ayush Maha<br>IT enthusiast<br><br>
 ---
 [![](https://visitcount.itsvg.in/api?id=ayushh-11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
