@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Mahat</h1>
 <h3 align="center">IT enthusiast</h3>
 
-- 🌱 I’m currently learning **React, Node.js**
+- 🌱 I’m currently learning **Web Development**
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
 
 <h3 align="left" style="fontSize:"1.3rem"">🌐 Socials :</h3>
