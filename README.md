@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ayush Mahat<br>IT enthusiast<br><br>
+Hi 👋, I'm Ayush Mahat<br>
 
 
 ## 🌐 Socials:
